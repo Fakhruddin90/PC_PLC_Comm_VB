@@ -1,0 +1,15 @@
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\PC_PLC_Comm_VB.exe.config
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\Interop.ACTMULTILib.dll
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\AxInterop.ACTMULTILib.dll
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.vbproj.ResolveComReference.cache
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\PC_PLC_Comm_VB.exe
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\PC_PLC_Comm_VB.pdb
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\PC_PLC_Comm_VB.xml
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\Interop.ACTMULTILib.dll
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\bin\x86\Release\AxInterop.ACTMULTILib.dll
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.Form1.resources
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.Resources.resources
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.vbproj.GenerateResource.Cache
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.exe
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.xml
+F:\Fakhruddin Study\Projects\PC_PLC_Comm_VB\PC_PLC_Comm_VB\obj\x86\Release\PC_PLC_Comm_VB.pdb
